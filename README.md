@@ -1,2 +1,2 @@
-# fuzzy-lamp
+# test-app
 for random stuff/testing
